@@ -1,3 +1,12 @@
+
+/**
+ * BST genérico.
+ * Referencia conceptual: Data Structures & Problem Solving Using Java, Mark Allen Weiss.
+ * Adaptado e implementado de forma propia para cumplir los requerimientos de la Hoja de trabajo 7.
+ *
+ */
+
+
 public class BinaryTree<E extends Comparable<E>> {
 
     private static class Node<E> {

@@ -30,3 +30,8 @@ bin/
 .DS_Store
 
 hoja-de-trabajo7-algoritmos.iml
+
+*/.idea
+
+tests.iml
+
